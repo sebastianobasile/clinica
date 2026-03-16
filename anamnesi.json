@@ -1,0 +1,110 @@
+{
+    "profilo": {
+        "nome": "MARIO ROSSI",
+        "nascita": "15 marzo 1975",
+        "residenza": "Via Roma, 42 – Palermo (PA)",
+        "cf": "RSS MRA 75 C 15 G273 X",
+        "gruppo_sanguigno": "A RH +",
+        "telefono": "3331234567",
+        "email": "mario.rossi@example.com",
+        "medico_base": "Dott. Giuseppe Bianchi",
+        "medico_tel": "3339876543",
+        "contatto_emergenza": "Laura Rossi (Moglie)",
+        "contatto_em_tel": "3337654321",
+        "peso_kg": "78",
+        "altezza_cm": "175",
+        "patologie_croniche": "Ipertensione lieve",
+        "anamnesi_remota": "Appendicectomia nel 1995",
+        "allergie_farmaci": "Penicillina (rush cutaneo)",
+        "altre_allergie": "Nessuna allergia nota",
+        "note_generali": "Paziente collaborativo, segue regolare attività fisica"
+    },
+    "farmaci": [
+        {
+            "nome": "Ramipril",
+            "dosaggio": "5 mg",
+            "frequenza": "1 cp/giorno al mattino",
+            "dal": "2021-03-10",
+            "note": "Cardiologia – dott. G. Bianchi"
+        },
+        {
+            "nome": "Atorvastatina",
+            "dosaggio": "20 mg",
+            "frequenza": "1 cp/giorno la sera",
+            "dal": "2022-06-15",
+            "note": "Controllo colesterolo"
+        }
+    ],
+    "ordine_categorie": [
+        "CARDIOLOGIA",
+        "ENDOCRINOLOGIA",
+        "ORTOPEDIA",
+        "CONTROLLO COLON",
+        "ESAMI DEL SANGUE"
+    ],
+    "cartelle_drive": {
+        "CARDIOLOGIA": "",
+        "ENDOCRINOLOGIA": "",
+        "ORTOPEDIA": "",
+        "CONTROLLO COLON": "",
+        "ESAMI DEL SANGUE": ""
+    },
+    "esami": [
+        {
+            "id": "e1",
+            "categoria": "CARDIOLOGIA",
+            "data": "2026-04-10",
+            "descrizione": "<b><font color=\"#009900\">Visita cardiologica di controllo (dott. G. Bianchi) ore 10:00</font></b>",
+            "link": "",
+            "completato": false
+        },
+        {
+            "id": "e2",
+            "categoria": "CARDIOLOGIA",
+            "data": "2025-10-05",
+            "descrizione": "Elettrocardiogramma + Ecocardiogramma. Esito nella norma.",
+            "link": "",
+            "completato": true
+        },
+        {
+            "id": "e3",
+            "categoria": "CARDIOLOGIA",
+            "data": "2021-03-10",
+            "descrizione": "Prima visita cardiologica per ipertensione lieve. Avvio terapia con Ramipril 5 mg.",
+            "link": "",
+            "completato": true
+        },
+        {
+            "id": "e4",
+            "categoria": "ENDOCRINOLOGIA",
+            "data": "2025-09-18",
+            "descrizione": "Visita endocrinologica di routine. Glicemia e TSH nella norma.",
+            "link": "",
+            "completato": true
+        },
+        {
+            "id": "e5",
+            "categoria": "ORTOPEDIA",
+            "data": "2024-11-22",
+            "descrizione": "Visita ortopedica per lombalgia cronica. RX colonna lombare: lieve artrosi L4-L5.",
+            "link": "",
+            "completato": true
+        },
+        {
+            "id": "e6",
+            "categoria": "CONTROLLO COLON",
+            "data": "2023-05-14",
+            "descrizione": "Colonscopia di screening. Esito negativo (dott. F. Verdi).",
+            "link": "",
+            "completato": true
+        },
+        {
+            "id": "e7",
+            "categoria": "ESAMI DEL SANGUE",
+            "data": "2026-02-20",
+            "descrizione": "<b><font color=\"#ff0099\">Prospetto</font></b> esami ematici: colesterolo totale 195, glicemia 88, creatinina 0.9.",
+            "link": "",
+            "completato": true
+        }
+    ]
+}
