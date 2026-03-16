@@ -1,0 +1,24 @@
+# Dati sensibili — NON pubblicare il tuo file reale
+# Usa anamnesi.json solo come esempio demo con dati fittizi
+# anamnesi.json   ← decommentare se si vuole escludere dal repo
+
+# Editor e OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Log PHP / server
+*.log
+error_log
+
+# File di configurazione locali
+config.local.php
+.env
+
+# Dipendenze (se in futuro si usa Composer)
+/vendor/
+composer.lock
