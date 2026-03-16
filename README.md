@@ -12,7 +12,7 @@ Sviluppato originariamente per uso personale, è progettato per essere installat
 
 | Vista paziente | Pannello Admin |
 |---|---|
-| ![Vista](screenshots/vista.png) | ![Admin](screenshots/admin.png) |
+| ![Vista](screenshots/vista.jpg) | ![Admin](screenshots/admin.jpg) |
 
 ---
 
