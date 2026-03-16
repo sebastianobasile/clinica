@@ -8,8 +8,6 @@ Sviluppato originariamente per uso personale, è progettato per essere installat
 
 ## 📸 Screenshot
 
-> *(Aggiungi screenshot nella cartella `/screenshots` e aggiornali qui sotto)*
-
 | Vista paziente | Pannello Admin |
 |---|---|
 | ![Vista](screenshots/vista.jpg) | ![Admin](screenshots/admin.jpg) |
