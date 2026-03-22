@@ -123,7 +123,7 @@ Puoi editarlo manualmente o gestirlo interamente dal pannello admin.
 
 ## 📄 Licenza
 
-Distribuito con licenza **MIT**. Vedi il file [LICENSE](LICENSE) per i dettagli.
+Distribuito con licenza **GNU GENERAL PUBLIC LICENSE** Version 3
 
 ---
 
